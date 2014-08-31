@@ -6,6 +6,7 @@ dmenu
 compton
 unclutter
 rxvt-unicode
+audacious (for conky now playing)
 
 essential bindings:
 
