@@ -5,3 +5,22 @@ sxhkd
 dmenu
 compton
 unclutter
+rxvt-unicode
+
+essential bindings:
+
+alt + n 
+launcher 
+
+alt + enter
+urxvtc
+
+alt + number 
+switch workspaces
+
+alt + t 
+toggle floating or tiled
+
+alt + mouse buttons
+
+move or scale windows
