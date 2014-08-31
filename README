@@ -1,0 +1,7 @@
+requires:
+
+bspwm
+sxhkd
+dmenu
+compton
+unclutter
