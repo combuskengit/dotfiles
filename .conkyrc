@@ -1,0 +1,47 @@
+# -- Conky settings -- #
+background no
+update_interval 2
+
+cpu_avg_samples 2
+net_avg_samples 2
+
+override_utf8_locale yes
+
+double_buffer yes
+no_buffers yes
+
+if_up_strictness address
+
+# -- Window specifications -- #
+
+own_window yes
+own_window_type desktop
+own_window_transparent yes
+own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
+
+alignment top_right
+
+minimum_size 1200 24
+gap_x 5
+gap_y 4
+
+# -- Graphics settings -- #
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders yes
+
+# -- Text settings -- #
+use_xft yes
+xftfont Tewi:Regular:pixelsize=12
+
+uppercase yes
+default_color dddddd # grau
+color1 aaaaaa # hellgrau
+color2 FFA7DA # grün
+color3 A3D572 # lila
+color4 98CBFE # rot
+color5 EFBD8B # gelb
+
+TEXT
+${font erusfont:pixelsize=12}${color2}♫${color3}♪${color4}♫${color5}♪${color} ${font}${exec audtool current-song}${color1} ~ ${color}${exec audtool --current-song-tuple-data album}${color1} ~ ${color}${exec  audtool --current-song-tuple-data artist} ${alignr}${color4}${time %H:%M:%S} ${color5}${time %a %d %b}
