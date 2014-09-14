@@ -3,8 +3,8 @@
 bspc monitor -d I II III IV V VI VII IX X XI
 
 bspc config border_width		5
-bspc config window_gap			10
-bspc config top_padding			24
+bspc config window_gap			20
+bspc config top_padding			10
 bspc config split_ratio			0.50
 bspc config focus_follows_pointer	true
 bspc config auto_alternate		true
@@ -13,7 +13,8 @@ bspc config history_aware_focus		true
 
 bspc rule -a Firefox desktop=^2
 bspc rule -a Skype floating=on desktop=^10
-bspc rule -a gimp floating=on 
+bspc rule -a gimp floating=on
+bspc rule -a feh floating=on
 
 
 rm -f $PANEL_FIFO

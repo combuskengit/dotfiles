@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="show_cover_art" mtime="1404901333" type="bool" value="true"/>
+	<entry name="last_file_chooser_uri" mtime="1407681333" type="string">
+		<stringvalue>file:///mnt/mass</stringvalue>
+	</entry>
+	<entry name="height" mtime="1409005180" type="int" value="1042"/>
+	<entry name="width" mtime="1409005180" type="int" value="1906"/>
+	<entry name="y_pos" mtime="1409005180" type="int" value="30"/>
+	<entry name="x_pos" mtime="1409005180" type="int" value="6"/>
+	<entry name="maximized" mtime="1409005180" type="bool" value="false"/>
+	<entry name="disable_album_grid" mtime="1409005166" type="bool" value="false"/>
+	<entry name="seek_slider_width" mtime="1409005166" type="int" value="175"/>
+	<entry name="source_view_width" mtime="1409005180" type="int" value="178"/>
+</gconf>

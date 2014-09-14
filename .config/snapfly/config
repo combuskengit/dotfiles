@@ -1,0 +1,20 @@
+# Sets terminal emulator for 'Run in terminal' programms
+# terminal=x-terminal-emulator
+# Show icon in systray
+# systray=true
+# Set rounded corners. You can set it value to 0 for much more faster drawing
+# rounded=4
+# Width of menu
+# menu_width=430
+# Background color
+# bg_color=#DCDCDC
+# Borders color
+# border_color=#4D4D4D
+# Hide GNOME or KDE or LXDE or ROX or XFCE or Old items from menu. Default: None
+# hide_list=GNOME,KDE,Old
+# Use click to category change (If false mouse move action will be used for category change)
+# category_click=true
+# Show Favorites category (allow to launch system default browser and email client now, if defined)
+# favorites=false
+# Directories to search .desktop files (You can use '~' for home directory).
+# desktop_dirs=/usr/share/applications/,~/.local/share/applications/,/usr/local/share/applications/,/usr/share/applications/kde4/,/usr/local/share/applications/kde4/

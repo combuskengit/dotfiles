@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="save-to-keyring" mtime="1408179632" type="bool" value="true"/>
+	<entry name="display-no-pass-info" mtime="1403726695" type="bool" value="false"/>
+</gconf>

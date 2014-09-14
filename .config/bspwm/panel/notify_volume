@@ -74,4 +74,4 @@ do
 done
 
 $(dirname $0)/notify  $icon [$bar]&
-mplayer "$CLIP" >/dev/null&
+notify-send -t 2 -a Volume $current &

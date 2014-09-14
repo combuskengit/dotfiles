@@ -1,0 +1,23 @@
+VirtualBox GUI VM Selector Window 4.3.14_OSE r95030 linux.amd64 (Aug 25 2014 16:50:43) release log
+00:00:02.569308 Log opened 2014-09-13T08:37:56.984446000Z
+00:00:02.569309 Build Type: release
+00:00:02.569312 OS Product: Linux
+00:00:02.569313 OS Release: 3.16.2-1-ARCH
+00:00:02.569314 OS Version: #1 SMP PREEMPT Sat Sep 6 13:12:51 CEST 2014
+00:00:02.569333 DMI Product Name: GA-970A-D3
+00:00:02.569343 DMI Product Version:  
+00:00:02.569469 Host RAM: 7970MB total, 7235MB available
+00:00:02.569470 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.569471 Process ID: 28939
+00:00:02.569472 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.612215 UIMediumEnumerator: Medium-enumeration started...
+00:00:29.773094 UIMediumEnumerator: Medium with key={61e70ba2-35b1-4870-a376-2cc32eea09c3} created.
+00:00:30.295425 UIMediumEnumerator: Machine registration event received, ID = f2e78f08-7131-45c9-9e7b-29d34fafefe2
+00:00:30.299202 UIMediumEnumerator:  New usage: 61e70ba2-35b1-4870-a376-2cc32eea09c3
+00:00:30.299366 UIMediumEnumerator: Machine registration event processed, ID = f2e78f08-7131-45c9-9e7b-29d34fafefe2
+00:00:30.309308 UIMediumEnumerator: Machine (or snapshot) event received, ID = f2e78f08-7131-45c9-9e7b-29d34fafefe2
+00:00:30.309340 UIMediumEnumerator:  Old usage: <empty>
+00:00:30.310612 UIMediumEnumerator:  New usage: 61e70ba2-35b1-4870-a376-2cc32eea09c3
+00:00:30.310631 UIMediumEnumerator:  Items included into usage: 61e70ba2-35b1-4870-a376-2cc32eea09c3
+00:00:30.310662 UIMediumEnumerator: Machine (or snapshot) event processed, ID = f2e78f08-7131-45c9-9e7b-29d34fafefe2
+00:00:30.326522 UIMediumEnumerator: Medium-enumeration finished!

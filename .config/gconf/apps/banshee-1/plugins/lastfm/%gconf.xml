@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="first_run" mtime="1404901232" type="bool" value="false"/>
+	<entry name="username" mtime="1409005166" type="string">
+		<stringvalue>captchadoor</stringvalue>
+	</entry>
+	<entry name="subscriber" mtime="1409005166" type="bool" value="false"/>
+	<entry name="session_key" mtime="1409005166" type="string">
+		<stringvalue>7fa5a9ca9ea4a4d2cd37bd9b229d731a</stringvalue>
+	</entry>
+</gconf>

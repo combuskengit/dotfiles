@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="VIA_VT2020-Rear_Mic_Boost" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Rear_Mic" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Digital" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Capture" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Line" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Side" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-LFE" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Center" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Surround" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Front_Mic_Boost" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Front_Mic" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Front" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-PCM" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Headphone" mtime="1403994071" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Master" mtime="1403994070" type="bool" value="true"/>
+</gconf>

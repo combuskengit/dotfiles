@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="AutoStartTimers" mtime="1407356121" type="bool" value="true"/>
+	<entry name="AutoDismissTimers" mtime="1407356119" type="bool" value="true"/>
+</gconf>

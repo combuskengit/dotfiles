@@ -1,0 +1,14 @@
+<unity_prefs version_major="1" version_minor="0">
+	<pref name="Language" type="string"><![CDATA[en]]></pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">0</pref>
+	<pref name="Screenmanager Resolution Height" type="int">720</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1280</pref>
+	<pref name="UnityGraphicsQuality" type="int">1</pref>
+	<pref name="aa" type="int">1</pref>
+	<pref name="advanced" type="int">0</pref>
+	<pref name="hqTextures" type="int">1</pref>
+	<pref name="oculus" type="int">0</pref>
+	<pref name="postFx" type="int">1</pref>
+	<pref name="quality" type="int">2</pref>
+	<pref name="vSync" type="int">1</pref>
+</unity_prefs>

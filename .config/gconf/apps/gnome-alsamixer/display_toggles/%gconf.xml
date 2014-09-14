@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="VIA_VT2020-Loopback_Mixing" mtime="1403994073" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Input_Source" mtime="1403994073" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Independent_HP" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Dynamic_Power-Control" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-Auto-Mute_Mode" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-IEC958_Default_PCM" mtime="1403994072" type="bool" value="true"/>
+	<entry name="VIA_VT2020-IEC958" mtime="1403994072" type="bool" value="true"/>
+</gconf>

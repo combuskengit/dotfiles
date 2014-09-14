@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=allkiwihenry@gmail.com
+Enabled=true
+Parent=1406983361.18548.0@localhost
+
+[Mail Identity]
+Address=allkiwihenry@gmail.com
+Name=Unknown
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=
+TransportUid=1406983361.18548.3@localhost
+RepliesToOriginFolder=false

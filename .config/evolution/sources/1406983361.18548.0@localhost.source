@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=allkiwihenry@gmail.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1406983352_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/allkiwihenry@gmail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=allkiwihenry@gmail.com
+MailEnabled=true

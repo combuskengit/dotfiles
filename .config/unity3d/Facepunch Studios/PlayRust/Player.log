@@ -1,0 +1,19 @@
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 78: saw unknown, expected number
+Preloaded type GtkListStore
+Preloaded type GtkWindow
+Preloaded type GtkVBox
+Preloaded type GtkImage
+Preloaded type GtkNotebook
+Preloaded type GtkHBox
+Preloaded type GtkFrame
+Preloaded type GtkAlignment
+Preloaded type GtkTreeView
+Preloaded type GtkLabel
+Preloaded type GtkCheckButton
+Preloaded type GtkScrolledWindow
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnScreenSelectorOK in main module; checking child
+Couldn't find OnScreenSelectorQuit in main module; checking child
+Couldn't find OnInputListRowActivated in main module; checking child

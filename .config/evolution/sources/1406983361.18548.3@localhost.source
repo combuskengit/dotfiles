@@ -1,0 +1,18 @@
+[Data Source]
+DisplayName=allkiwihenry@gmail.com
+Enabled=true
+Parent=1406983361.18548.0@localhost
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=allkiwihenry@gmail.com
+
+[Security]
+Method=starttls-on-standard-port

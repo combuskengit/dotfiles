@@ -1,0 +1,9 @@
+help
+
+search mpv
+open_with gview
+open_with gvim
+open_with 0
+open_with 1
+search .con
+search rang

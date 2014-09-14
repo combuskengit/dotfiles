@@ -1,0 +1,7 @@
+<Configuration>
+  <AddinStatus>
+    <Addin id="Banshee.LastfmStreaming" enabled="False" />
+    <Addin id="Banshee.LibraryWatcher" enabled="True" />
+    <Addin id="Banshee.MiniMode" enabled="True" />
+  </AddinStatus>
+</Configuration>
