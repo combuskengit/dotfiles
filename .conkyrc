@@ -1,4 +1,4 @@
-# -- Conky settings -- #
+# -- Conky settings -- #i
 background no
 update_interval 2
 
@@ -21,9 +21,9 @@ own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
 
 alignment top_right
 
-minimum_size 1200 24
+minimum_size 1200 10
 gap_x 5
-gap_y 4
+gap_y -1
 
 # -- Graphics settings -- #
 draw_shades no
@@ -33,7 +33,7 @@ draw_graph_borders yes
 
 # -- Text settings -- #
 use_xft yes
-xftfont Tewi:Regular:pixelsize=12
+xftfont tewi :Regular:pixelsize=12
 
 uppercase yes
 default_color dddddd # grau
@@ -44,4 +44,4 @@ color4 98CBFE # rot
 color5 EFBD8B # gelb
 
 TEXT
-${font erusfont:pixelsize=12}${color2}♫${color3}♪${color4}♫${color5}♪${color} ${font}${exec audtool current-song}${color1} ~ ${color}${exec audtool --current-song-tuple-data album}${color1} ~ ${color}${exec  audtool --current-song-tuple-data artist} ${alignr}${color4}${time %H:%M:%S} ${color5}${time %a %d %b}
+${font}${color2}♫${color3}♪${color4}♫${color5}♪${color} ${font}${exec audtool current-song}${color1} ~ ${color}${exec audtool --current-song-tuple-data album}${color1} ~ ${color}${exec  audtool --current-song-tuple-data artist} ${alignr}${color2}| ${color}Uptime: ${uptime_short}  ${color3}| ${color}CPU: ${cpu}% ${color4}| ${color}Mem: $mem/$memmax${color5} | ${color}${time %H:%M:%S} ${time %a %d %b}
