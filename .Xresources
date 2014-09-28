@@ -1,45 +1,48 @@
-URxvt*internalBorder:           10
-urxvt*cursorBlink:		true
-urxvt*scrollBar:		false
-URxvt.font: xft:Tewi:size=12
+URxvt*internalBorder:   6
+URxvt*cursorBlink:		true
+URxvt*scrollBar:		false
+URxvt*font: xft:tewi:size=8
 
-URxvt*cursorColor:  #121212
-URxvt.background: #363636
-URxvt.foreground: #A0A0A0
+xclock*background:      #1d1d1d
+xclock*face:            Archivo Narrow-16
+xclock*foreground:      #cef318
+xclock*hourColor:       #ffffff
+xclock*minuteColor:     #ffffff
+xclock*secondColor:     #ffffff
+xclock*majorColor:      #1d1d1d
+xclock*minorColor:      #1d1d1d
+xclock*analog:          true
+xclock*geometry:        120x120+1790+950
+xclock*strftime:        %a %d/%m   %H:%M
+xclock*update:          1
 
-URxvt.colorBD:    #CFCFCF
-URxvt.colorUL:    #A0A0A0
-URxvt.colorIT:    #686868
+! terminal colours
+*foreground:#a0a0a0
+*background:#1b1d1e
 
-!BLK
-URxvt.color0:     #303030
-URxvt.color8:     #686868
+!molokai inspired colors
 
-!RED
-URxvt.color9:     #FFA7DA
-URxvt.color1:     #D370A3
-
-!GRN
-URxvt.color10:    #A3D572
-URxvt.color2:     #6D9E3F
-
-!BLU
-URxvt.color12:    #98CBFE
-URxvt.color4:     #6095C5
-
-!YEL
-URxvt.color11:    #EFBD8B
-URxvt.color3:     #B58858
-
-!CYN
-URxvt.color14:    #75DAA9
-URxvt.color6:     #3BA275
-
-!MAG
-URxvt.color13:    #E5B0FF
-URxvt.color5:     #AC7BDE
-
-!WHT
-URxvt.color7:     #CFCFCF
-URxvt.color15:    #FFFFFF
-
+!black
+*color0:    #1b1d1e
+*color8:    #505354
+!red
+*color1:    #f92672
+*color9:    #ff5995
+!green
+*color2:    #82b414
+*color10:   #b6e354
+!yellow
+*color3:    #fd971f
+*color11:   #feed6c
+!blue
+*color4:    #56c2d6
+*color12:   #8cedff
+!magenta
+*color5:    #8c54fe
+*color13:   #9e6ffe
+!cyan
+*color6:    #465457
+*color14:   #899ca1
+!white
+*color7:    #ccccc6
+*color15:   #f8f8f2
