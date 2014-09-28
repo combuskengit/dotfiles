@@ -1,4 +1,0 @@
-# Usermenu config file format:
-# @CategoryName##/path/to/category/image.png
-# /path/to/command/in/CategoryName##/path/to/item/image.png##Item text##Description of Item
-# /path/to/command2/in/CategoryName##/path/to/item/image2.png##Item2 text##Description of Item2

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="height" mtime="1408279721" type="int" value="102"/>
-	<entry name="width" mtime="1408279721" type="int" value="550"/>
-	<entry name="y_pos" mtime="1408279721" type="int" value="489"/>
-	<entry name="x_pos" mtime="1408279721" type="int" value="685"/>
-	<entry name="maximized" mtime="1408279721" type="bool" value="false"/>
-</gconf>

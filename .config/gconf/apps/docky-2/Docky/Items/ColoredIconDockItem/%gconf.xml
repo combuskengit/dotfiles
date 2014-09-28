@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="file____mnt_mass" mtime="1407355948" type="int" value="0"/>
-	<entry name="file____home_hs" mtime="1407355948" type="int" value="0"/>
-	<entry name="computer___" mtime="1407355948" type="int" value="0"/>
-	<entry name="DockyItem" mtime="1410465408" type="int" value="158"/>
-</gconf>

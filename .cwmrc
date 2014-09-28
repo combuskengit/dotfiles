@@ -1,0 +1,99 @@
+# Set default Xft(3) font
+fontname "cure"
+
+# Turn on sticky-group mode
+sticky yes
+
+# Any entry here is shown in the application menu
+command "-Apps-" clear
+command  uxrvt  urxvtc
+command  dmenu  xboomx
+command  ffox   firefox
+command  ncmpcpp  "urxvtc -e ncmpcpp"
+command  "------" clear
+command  panel  exec bash ~/panel.sh
+command  gtk    
+command  exit   oblogout
+
+
+# do not manage these
+ignore xclock
+
+
+# behavior, look & feel
+borderwidth             2
+color inactiveborder    "#222222"
+color activeborder      "#555555"
+color font              "#ffffff"
+color menubg            "#232323"
+color selfont           "#ffffff"
+color menufg            "#4c4c4c"
+color groupborder       "#56c2d6"
+color ungroupborder     "#f92672"
+
+gap                     8 8 8 8
+moveamount              2
+snapdist                8
+
+# Keybindings
+# SIZE
+bind M-equal    vmaximize
+bind MS-equal   hmaximize
+bind M-x        maximize
+bind MC-h      bigresizeleft
+bind MC-j      bigresizedown
+bind MC-k      bigresizeup
+bind MC-l      bigresizeright
+
+# POSITION
+bind MS-y        corner_tl
+bind MS-i        corner_tr
+bind MS-n        corner_bl
+bind MS-comma    corner_br
+
+bind M-s        htile
+bind M-v        vtile
+bind MS-h       bigmoveleft
+bind MS-j       bigmovedown
+
+
+bind MS-k       bigmoveup
+bind MS-l       bigmoveright
+
+# CONTROL
+bind M-a        label
+bind M-c   delete
+
+# Group control
+bind M-g            grouptoggle
+bind M-l            cyclegroup
+bind M-h            rcyclegroup
+bind M-1           group1
+bind M-2           group2
+bind M-3           group3
+bind M-4           group4
+bind M-5           group5
+bind M-6           group6
+bind M-7           group7
+bind M-8           group8
+bind M-9           group9
+bind M-0          nogroup
+bind MS-1          grouponly1
+bind MS-2          grouponly2
+bind MS-3          grouponly3
+bind MS-4          grouponly4
+bind MS-5          grouponly5
+bind MS-6          grouponly6
+bind MS-7          grouponly7
+bind MS-8          grouponly8
+bind MS-9          grouponly9
+
+# Session management
+bind CM-r       restart
+bind CM-q       quit
+
+
+# Mousebindings
+mousebind M-1   window_move
+mousebind M-2   window_grouptoggle
+mousebind M-3   window_resize

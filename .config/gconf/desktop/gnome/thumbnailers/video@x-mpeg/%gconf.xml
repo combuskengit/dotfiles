@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="enable" mtime="1408032544" type="bool" value="true"/>
-	<entry name="command" mtime="1408032544" type="string">
-		<stringvalue>/usr/bin/imdb-thumbnailer -s %s %u %o</stringvalue>
-	</entry>
-</gconf>

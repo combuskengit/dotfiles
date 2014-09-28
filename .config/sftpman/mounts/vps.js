@@ -1,1 +1,0 @@
-{"id": "vps", "user": "tor", "mountPoint": "/home/hs/vps/", "authType": "password", "beforeMount": "true", "port": 22, "mountOptions": ["follow_symlinks", "workaround=rename", "big_writes"], "host": "81.4.123.235", "sshKey": ""}
