@@ -7,7 +7,7 @@ BG_COLOR="#232323"
 WIDTH=160
 HEIGHT=20
 X=10
-Y=1050
+Y=1060
 FONT="-artwiz-nu-medium-r-normal-*-10-110-75-75-m-50-iso8859-*"
 ICON="/home/hs/.dzen2/grid.xbm"
 
